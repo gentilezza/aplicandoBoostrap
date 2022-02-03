@@ -491,6 +491,7 @@ progress {
   font-size: calc(1.625rem + 4.5vw);
   font-weight: 300;
   line-height: 1.2;
+  background-color: #eec0c6;
 }
 @media (min-width: 1200px) {
   .display-1 {
